@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Libsass Build",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"TortoiseSVN",
+		"Vue Syntax Highlight"
+	]
+}

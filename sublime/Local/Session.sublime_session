@@ -1,0 +1,846 @@
+{
+	"folder_history":
+	[
+		"/E/selfWork/Blog",
+		"/E/xzq/liveblog/blogportal",
+		"/E/xzq/liveblog/blogServer",
+		"/E/xzq/weibao",
+		"/E/xzq/news-wx",
+		"/E/work/news-new",
+		"/E/selfWork/ruansoft/shang",
+		"/E/xzqbar/barH5",
+		"/E/selfWork/babel",
+		"/E/Data",
+		"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/club(back)/mmmm",
+		"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey",
+		"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen",
+		"/F/project/full-stack",
+		"/F/project/webpack-test",
+		"/F/project/X",
+		"/C/Users/Administrator/Desktop/demoApp",
+		"/F/project/express/runin",
+		"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/invitation"
+	],
+	"last_version": 3143,
+	"last_window_id": 24,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 570.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"da",
+						"dateValue"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"ch",
+						"cache"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"a",
+						"args"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"re",
+						"reset"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"ite",
+						"items"
+					],
+					[
+						"sca",
+						"scale3d()"
+					],
+					[
+						"app",
+						"appendChild"
+					],
+					[
+						"dia",
+						"dialogCon"
+					],
+					[
+						"o",
+						"overflow"
+					],
+					[
+						"translate",
+						"translate3d()"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"win",
+						"winHeight"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"inin",
+						"inline-block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"user",
+						"userDao"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "gc",
+				"selected_items":
+				[
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"ga",
+						"Git: Add All"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"ve",
+						"View: Toggle Menu"
+					],
+					[
+						"ger",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"gb",
+						"Git: Pull Current Branch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"style",
+						"Set Syntax: Textile"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 154.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/selfWork/Blog/README.md",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/E/xzq/weibao/src/assets/data/data.js",
+				"/E/selfWork/ruansoft/shang/index.html",
+				"/E/selfWork/ruansoft/shang/js/time.js",
+				"/E/selfWork/ruansoft/shang/js/index.js",
+				"/E/selfWork/ruansoft/shang/style/index.css",
+				"/C/Users/Administrator.PC-20160926FHAC/AppData/Local/Temp/project.config.json-rev54471.svn000.tmp.json",
+				"/C/Users/Administrator.PC-20160926FHAC/Desktop/index.html",
+				"/E/selfWork/babel/src/index.js",
+				"/E/selfWork/babel/src/index.html",
+				"/E/selfWork/babel/dist/bundle.js",
+				"/E/selfWork/babel/webpack.config.js",
+				"/E/selfWork/babel/package.json",
+				"/E/selfWork/babel/.babelrc",
+				"/E/selfWork/babel/index.html",
+				"/C/Users/Administrator.PC-20160926FHAC/Desktop/123.html",
+				"/G/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/work/news-new/src/components/common/CommentList.vue",
+				"/G/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/E/work/common.js",
+				"/E/work/news-new/preview.html",
+				"/E/work/news-new/config/index.js",
+				"/E/work/news-new/src/components/common/FootNav.vue",
+				"/E/work/news-new/src/assets/config.js",
+				"/C/Users/Administrator/Desktop/bar.css.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css.r54333",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/js/bar.js.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/club(back)/mmmm/app.wxss",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/js/bar.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/index.html",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/club(back)/mmmm/page/index/index.wxml",
+				"/C/Users/Administrator/Desktop/toors/animate.css",
+				"/C/Users/Administrator/Desktop/13131.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/vote.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/answer.js",
+				"/C/Users/Administrator/Desktop/a2.html",
+				"/F/project/full-stack/app.js",
+				"/F/project/full-stack/client/src/css/index.scss",
+				"/F/project/full-stack/bin/www",
+				"/F/project/full-stack/package.json",
+				"/F/project/wechat-jump-source-master/unwxapkg.py",
+				"/F/project/full-stack/server.js",
+				"/F/project/full-stack/webpack.common.js",
+				"/F/project/full-stack/client/src/js/list.js",
+				"/F/project/full-stack/client/src/js/index.js",
+				"/F/project/full-stack/client/src/css/list.css",
+				"/F/project/webpack-test/webpack.common.js",
+				"/F/project/full-stack/client/src/list.html",
+				"/F/project/full-stack/webpack.dev.js",
+				"/F/project/full-stack/readme.rm",
+				"/F/project/full-stack/server/package.json",
+				"/F/project/full-stack/client/package.json",
+				"/F/project/full-stack/server/readme.rm",
+				"/C/Users/Administrator/Desktop/README.md.txt",
+				"/F/project/webpack-test/package.json",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/static/js/authorize_userinfo.js",
+				"/F/project/express/runin/package.json",
+				"/F/project/express/runin/app.js",
+				"/C/Users/Administrator/Desktop/bar.js",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/F/project/express/runin/bin/www",
+				"/F/project/express/runin/views/index.html",
+				"/F/project/express/runin/www/util/util.js",
+				"/F/project/express/runin/views/index.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/static/js/config.js",
+				"/F/project/express/runin/readme.rm",
+				"/F/project/express/runin/routes/users.js",
+				"/F/project/express/runin/www/dao/userDao.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/lottery.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/.gitignore",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/css/vote.scss",
+				"/F/project/express/runin/www/dao/userSqlMapping.js",
+				"/F/project/express/runin/www/dao/userDao",
+				"/F/project/express/runin/www/conf/conf.js",
+				"/F/project/express/runin/www/util.js",
+				"/F/project/express/runin/www/conf",
+				"/F/project/express/runin/www/dao.js",
+				"/F/project/express/runin/www/dao1.js",
+				"/F/project/express/runin/www/dao",
+				"/D/Program Files (x86)/Sublime Text 3/Data/Packages/User/TortoiseSVN.sublime-settings",
+				"/F/project/express/runin/views/layout.html",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/index.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":before",
+					"el-input__inner:before",
+					"el-input__inner:ho",
+					"hover",
+					"\"\\e642\"",
+					"element-icons"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 154.0
+			},
+			"output.git":
+			{
+				"height": 172.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inde",
+						"config\\index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 888.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"da",
+						"dateValue"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"ch",
+						"cache"
+					],
+					[
+						"arg",
+						"arguments"
+					],
+					[
+						"a",
+						"args"
+					],
+					[
+						"i",
+						"item"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"re",
+						"reset"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"ite",
+						"items"
+					],
+					[
+						"sca",
+						"scale3d()"
+					],
+					[
+						"app",
+						"appendChild"
+					],
+					[
+						"dia",
+						"dialogCon"
+					],
+					[
+						"o",
+						"overflow"
+					],
+					[
+						"translate",
+						"translate3d()"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"win",
+						"winHeight"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"inin",
+						"inline-block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"user",
+						"userDao"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "gc",
+				"selected_items":
+				[
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"ga",
+						"Git: Add All"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"ve",
+						"View: Toggle Menu"
+					],
+					[
+						"ger",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"gb",
+						"Git: Pull Current Branch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"style",
+						"Set Syntax: Textile"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 154.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/selfWork/Blog"
+			],
+			"file_history":
+			[
+				"/E/selfWork/Blog/README.md",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/E/xzq/weibao/src/assets/data/data.js",
+				"/E/selfWork/ruansoft/shang/index.html",
+				"/E/selfWork/ruansoft/shang/js/time.js",
+				"/E/selfWork/ruansoft/shang/js/index.js",
+				"/E/selfWork/ruansoft/shang/style/index.css",
+				"/C/Users/Administrator.PC-20160926FHAC/AppData/Local/Temp/project.config.json-rev54471.svn000.tmp.json",
+				"/C/Users/Administrator.PC-20160926FHAC/Desktop/index.html",
+				"/E/selfWork/babel/src/index.js",
+				"/E/selfWork/babel/src/index.html",
+				"/E/selfWork/babel/dist/bundle.js",
+				"/E/selfWork/babel/webpack.config.js",
+				"/E/selfWork/babel/package.json",
+				"/E/selfWork/babel/.babelrc",
+				"/E/selfWork/babel/index.html",
+				"/C/Users/Administrator.PC-20160926FHAC/Desktop/123.html",
+				"/G/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/work/news-new/src/components/common/CommentList.vue",
+				"/G/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings",
+				"/G/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/E/work/common.js",
+				"/E/work/news-new/preview.html",
+				"/E/work/news-new/config/index.js",
+				"/E/work/news-new/src/components/common/FootNav.vue",
+				"/E/work/news-new/src/assets/config.js",
+				"/C/Users/Administrator/Desktop/bar.css.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css.r54333",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/js/bar.js.mine",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/club(back)/mmmm/app.wxss",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/css/bar.css",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/js/bar.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/bar-screen/index.html",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/club(back)/mmmm/page/index/index.wxml",
+				"/C/Users/Administrator/Desktop/toors/animate.css",
+				"/C/Users/Administrator/Desktop/13131.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/vote.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/answer.js",
+				"/C/Users/Administrator/Desktop/a2.html",
+				"/F/project/full-stack/app.js",
+				"/F/project/full-stack/client/src/css/index.scss",
+				"/F/project/full-stack/bin/www",
+				"/F/project/full-stack/package.json",
+				"/F/project/wechat-jump-source-master/unwxapkg.py",
+				"/F/project/full-stack/server.js",
+				"/F/project/full-stack/webpack.common.js",
+				"/F/project/full-stack/client/src/js/list.js",
+				"/F/project/full-stack/client/src/js/index.js",
+				"/F/project/full-stack/client/src/css/list.css",
+				"/F/project/webpack-test/webpack.common.js",
+				"/F/project/full-stack/client/src/list.html",
+				"/F/project/full-stack/webpack.dev.js",
+				"/F/project/full-stack/readme.rm",
+				"/F/project/full-stack/server/package.json",
+				"/F/project/full-stack/client/package.json",
+				"/F/project/full-stack/server/readme.rm",
+				"/C/Users/Administrator/Desktop/README.md.txt",
+				"/F/project/webpack-test/package.json",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/static/js/authorize_userinfo.js",
+				"/F/project/express/runin/package.json",
+				"/F/project/express/runin/app.js",
+				"/C/Users/Administrator/Desktop/bar.js",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/F/project/express/runin/bin/www",
+				"/F/project/express/runin/views/index.html",
+				"/F/project/express/runin/www/util/util.js",
+				"/F/project/express/runin/views/index.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/static/js/config.js",
+				"/F/project/express/runin/readme.rm",
+				"/F/project/express/runin/routes/users.js",
+				"/F/project/express/runin/www/dao/userDao.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/lottery.js",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/.gitignore",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/css/vote.scss",
+				"/F/project/express/runin/www/dao/userSqlMapping.js",
+				"/F/project/express/runin/www/dao/userDao",
+				"/F/project/express/runin/www/conf/conf.js",
+				"/F/project/express/runin/www/util.js",
+				"/F/project/express/runin/www/conf",
+				"/F/project/express/runin/www/dao.js",
+				"/F/project/express/runin/www/dao1.js",
+				"/F/project/express/runin/www/dao",
+				"/D/Program Files (x86)/Sublime Text 3/Data/Packages/User/TortoiseSVN.sublime-settings",
+				"/F/project/express/runin/views/layout.html",
+				"/F/yaotv20170113/yaotv/trunk/yaotv/trunk/zq-tv-resources/resources/jiangsu/js-wey/src/js/index.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":before",
+					"el-input__inner:before",
+					"el-input__inner:ho",
+					"hover",
+					"\"\\e642\"",
+					"element-icons"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\selfWork\\ruansoft\\shang"
+				},
+				{
+					"path": "E:\\xzq\\weibao"
+				},
+				{
+					"path": "E:\\xzq\\liveblog\\blogServer"
+				},
+				{
+					"path": "E:\\xzq\\liveblog\\blogportal"
+				},
+				{
+					"path": "E:\\selfWork\\Blog"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 42.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 154.0
+			},
+			"output.git":
+			{
+				"height": 172.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,989,375,361,1279",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inde",
+						"config\\index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
